@@ -38,7 +38,7 @@ seo:
 
 我们建立了一个长期的课程反馈问卷:
 
-- [《离散数学》课程调查问卷](https://www.wjx.cn/vm/QBVxm2f.aspx#)
+- [《离散数学》课程调查问卷](https://www.wjx.cn/vm/YDpvisZ.aspx# )
 
 欢迎大家提出关于本课程的问题或建议。
 
