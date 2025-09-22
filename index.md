@@ -46,7 +46,8 @@ seo:
 ## 之前的课程资料
 
 - [2023年秋季学期](https://www.dm2023w.spacepenguin.com.cn)
-- [2024年春季学期](https://www.dm2024s.spacepenguin.com.cn)
+- [2024年秋季学期](https://www.dm2024w.spacepenguin.com.cn)
+- [2025年春季学期](https://www.dm2025s.spacepenguin.com.cn)
 
 ## 课程通知
 
