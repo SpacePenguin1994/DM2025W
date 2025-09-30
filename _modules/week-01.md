@@ -17,4 +17,8 @@ Lec 2
 : **命题逻辑(II)(Proposition Logic(II))**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec2-handout.pdf)\]
 
+Lec 3
+: **命题逻辑(III)(Proposition Logic(III))**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec3-handout.pdf)\]
+
 
