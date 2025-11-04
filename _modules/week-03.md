@@ -13,3 +13,6 @@ HW 3
 
 HW 4
 : **HW**{: .label .label-red }Released:[Homework #4-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-4-answer.pdf)  
+
+HW 5
+: **HW**{: .label .label-red }Released:[Homework #5-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-5-answer.pdf)  
