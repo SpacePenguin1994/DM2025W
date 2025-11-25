@@ -33,3 +33,7 @@ HW 7
 HW 8
 :  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-8-blank.pdf)
 :  **DUE**{: .label .label-yellow} Nov 24 11:59 PM
+
+HW 9
+:  **HW**{: .label .label-red }Released: [Homework #9-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-9-noblank.pdf) &nbsp; [Homework #9-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-9-blank.pdf)
+:  **DUE**{: .label .label-yellow} Dec 1 11:59 PM
