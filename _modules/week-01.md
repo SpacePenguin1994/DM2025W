@@ -43,3 +43,17 @@ Lec 7
 Lec 8
 : **函数(Function)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec8-handout.pdf)\]
+
+  图论部分：
+
+Lec 9
+: **图的基本概念(Basic Concepts of Graph)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec9-handout.pdf)\]
+
+Lec 10
+: **图的路径(Path of Graph)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec10-handout.pdf)\]
+
+Lec 11
+: **树(Tree)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec11-handout.pdf)\]
