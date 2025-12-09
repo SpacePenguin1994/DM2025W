@@ -44,7 +44,7 @@ Lec 8
 : **函数(Function)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec8-handout.pdf)\]
 
-  图论部分：
+图论部分：
 
 Lec 9
 : **图的基本概念(Basic Concepts of Graph)**
