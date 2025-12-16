@@ -33,4 +33,4 @@ HW 10
 : **HW**{: .label .label-red }Released:[Homework #10-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-10-answer.pdf) 
 
 HW 11
-: **HW**{: .label .label-red }Released:[Homework #10-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-11-answer.pdf) 
+: **HW**{: .label .label-red }Released:[Homework #11-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-11-answer.pdf) 
