@@ -37,3 +37,9 @@ HW 11
 
 HW 12
 : **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-12-answer.pdf) 
+
+HW 13
+: **HW**{: .label .label-red }Released:[Homework #13-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-13-answer.pdf) 
+
+HW 14
+: **HW**{: .label .label-red }Released:[Homework #14-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM-homework-14-answer.pdf) 
